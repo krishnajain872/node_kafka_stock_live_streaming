@@ -1,0 +1,7 @@
+kafka_2.*/
+kafka_1.*/
+kafka/
+node_modules/
+node_*/
+package-lock.json
+dump

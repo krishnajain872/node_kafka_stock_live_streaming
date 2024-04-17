@@ -1,0 +1,24 @@
+{
+  "name": "kafka_socket_stream",
+  "version": "1.0.0",
+  "description": "A starter project to see in action, streaming data using kafka and websockets",
+  "main": "server_consumer.js",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "express": "^4.17.1",
+    "kafka-node": "^5.0.0",
+    "kafkajs": "^2.2.4",
+    "socket.io": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kafka",
+    "socket",
+    "stream",
+    "node"
+  ],
+  "author": "krishnajain872@gmail.com",
+  "license": "ISC"
+}
